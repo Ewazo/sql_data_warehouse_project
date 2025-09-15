@@ -17,7 +17,7 @@ This is a comprehensive, hands-on project that guides you through the process of
 
 ### Project Scope and Milestones
 
-The project is broken down into a series of logical milestones, each building on the last to complete the data warehouse.
+The project is broken down into a series of logical milestones.
 
 **Phase 1: Project Scoping and Architecture Design**: 
 This initial phase involves understanding the business requirements of the retail company. Definition of key business metrics, identification of the data sources, and design of high-level data architecture, including tables and their relationships. This step is critical for ensuring the final warehouse meets the company's analytical needs.
