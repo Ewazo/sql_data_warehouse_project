@@ -19,19 +19,19 @@ This is a comprehensive, hands-on project that guides you through the process of
 
 The project is broken down into a series of logical milestones, each building on the last to complete the data warehouse.
 
-1.  **Phase 1: Project Scoping and Architecture Design**: 
+**Phase 1: Project Scoping and Architecture Design**: 
 This initial phase involves understanding the business requirements of the retail company. Definition of key business metrics, identification of the data sources, and design of high-level data architecture, including tables and their relationships. This step is critical for ensuring the final warehouse meets the company's analytical needs.
 
-2.  **Phase 2: Data Extraction and Integration**: 
+**Phase 2: Data Extraction and Integration**: 
 This project simulates extracting data from various source systems. SQL scripts are written to integrate this disparate data into a single, unified staging area. This phase focuses on handling multiple data formats and ensuring data consistency.
 
-3.  **Phase 3: Data Transformation and Quality Control**: 
+**Phase 3: Data Transformation and Quality Control**: 
 Here, a dive deep into data cleaning and transformation is conducted. Complex SQL queries to handle common data issues like missing values is carried out, duplicates, and inconsistent data types are handled. This phase ensures the data is clean and reliable before it's loaded into the final warehouse. 
 
-4.  **Phase 4: Dimensional Modeling**: 
+**Phase 4: Dimensional Modeling**: 
 This is the core of the project. The final dimensional model is built, creating **fact tables** (which store measures like sales) and **dimension tables** (which store contextual attributes like product or customer information). This structure is essential for enabling fast and flexible analytical queries.
 
-5.  **Phase 5: Finalization and Documentation**: 
+**Phase 5: Finalization and Documentation**: 
 The final phase involves documenting the entire data pipeline and ensuring the warehouse is ready for use by business analysts.
 
 ---
