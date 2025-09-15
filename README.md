@@ -5,6 +5,9 @@ Building a modern data warehouse with SQL Server, including ETL processes, data 
 
 This is a comprehensive, hands-on project that guides you through the process of building a **modern data warehouse** from scratch. Using a detailed case study based on a retail company, I learned to apply core data engineering principles to create a scalable and efficient data solution. The project is designed to be a significant addition to professional portfolios, showcasing ability to design, develop, and maintain a data warehouse.
 
+
+![High Level Data Architecture](https://github.com/user-attachments/assets/2650be52-183d-4c77-bf44-5bb267fa331a)
+
 ---
 
 ### Technologies Used
